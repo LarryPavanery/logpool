@@ -1,0 +1,13 @@
+body {
+    color: #CCC !important;
+    background-color: #000 !important;
+}
+
+table {
+    width: 80% !important; 
+    margin: auto;
+}
+
+.increase {
+    color: chartreuse;
+}
